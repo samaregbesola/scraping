@@ -1,0 +1,170 @@
+id,title,image,price,inStock,category,isNew
+13071857,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-mens-shoes-jBrhbr.png,110.0,True,Men's Shoes,False
+13124718,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/e777c881-5b62-4250-92a6-362967f54cca/air-force-1-07-womens-shoes-b19lqD.png,110.0,True,Women's Shoes,False
+13130491,Nike Air Force 1 LE,https://static.nike.com/a/images/t_default/d9f1d9ee-a848-4a36-aab9-48b241078ebb/air-force-1-le-big-kids-shoes-3JNSvS.png,90.0,True,Big Kids' Shoes,False
+14234741,Nike Air Force 1 '07 Next Nature,https://static.nike.com/a/images/t_default/1aeb9850-aa34-4fa9-8ba0-9f875a1c36ca/air-force-1-07-next-nature-womens-shoes-fvxZ0g.png,80.97,True,Women's Shoes,False
+1010052608,Nike Air Force 1 Shadow,https://static.nike.com/a/images/t_default/7796e97b-30b4-4208-96fa-b4eb9747776a/air-force-1-shadow-womens-shoes-kTgn9J.png,130.0,True,Women's Shoes,False
+1010068593,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/901bbbbc-5aed-4078-9a39-d129f1ee124b/air-force-1-07-mens-shoes-rXkGJX.png,110.0,True,Men's Shoes,False
+14244101,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/5ad0e77c-5992-418a-b8f8-7c2cc8dc2a2c/air-force-1-07-mens-shoes-vRgTMx.png,77.97,True,Men's Shoes,False
+1008597348,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/0d9d86e4-11b5-43ae-8462-c7bd05096ec8/air-force-1-07-womens-shoes-PqdxJw.png,110.0,True,Women's Shoes,False
+13027510,Nike Air Force 1,https://static.nike.com/a/images/t_default/1aa3abc4-692e-466b-b985-570a178f25ef/air-force-1-big-kids-shoes-M7mcL9.png,90.0,True,Big Kids' Shoes,False
+14244259,Nike Air Force 1 '07 Fresh,https://static.nike.com/a/images/t_default/351a4358-8bf2-4c76-b50a-5de70495375d/air-force-1-07-fresh-mens-shoes-QTWGkm.png,112.97,True,Men's Shoes,False
+14072838,Nike Air Force 1 Low Retro QS,https://static.nike.com/a/images/t_default/eda869cc-9789-40ec-abb1-ddffff3ee22f/air-force-1-low-retro-qs-mens-shoes-XZG2zG.png,75.97,True,Men's Shoes,False
+14234555,Nike Air Force 1 High,https://static.nike.com/a/images/t_default/da1f536b-0d25-4da0-b841-7c19c5be94c2/air-force-1-high-womens-shoes-vBhHD4.png,62.97,True,Women's Shoes,False
+1003839121,Nike Air Force 1 '07 SE,https://static.nike.com/a/images/t_default/d8163d74-4903-4892-a5c7-f4b8fd1a9c89/air-force-1-07-se-womens-shoes-58VkQV.png,120.0,True,Women's Shoes,False
+1000197004,Nike Air Force 1 '07 LX,https://static.nike.com/a/images/t_default/abbbec14-4ef1-4cf9-9fc8-bbe1cfa9a00f/air-force-1-07-lx-mens-shoes-7Xt6gz.png,97.97,True,Men's Shoes,False
+1007841168,Nike Air Force 1 '07 FlyEase,https://static.nike.com/a/images/t_default/f8dfa191-60b3-44c1-b730-b25e0a908c35/air-force-1-07-flyease-shoes-vpmlK3.png,110.0,True,Shoes,False
+1007832680,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/fc01e3ac-b2d0-4543-b254-6ea989731c1b/air-force-1-07-lv8-mens-shoes-ZvGj5Q.png,111.97,True,Men's Shoes,False
+1010123523,Nike Air Force 1 PLT.AF.ORM,https://static.nike.com/a/images/t_default/66543e62-d746-4b3c-9813-7426da4880a1/air-force-1-pltaform-womens-shoes-XL2m2Q.png,90.97,True,Women's Shoes,False
+1009174614,Nike Air Force 1 Impact Next Nature,https://static.nike.com/a/images/t_default/da532aa3-8096-4859-91f4-b98bf1189ec1/air-force-1-impact-next-nature-big-kids-shoes-kqDRpb.png,85.97,True,Big Kids' Shoes,False
+13722325,Nike Air Force 1 Luxe,https://static.nike.com/a/images/t_default/c6d55fea-37cf-4dd8-bbca-55e22809bcd4/air-force-1-luxe-mens-shoes-7Fvcvq.png,112.97,True,Men's Shoes,False
+1010165765,Nike Air Force 1,https://static.nike.com/a/images/t_default/2594670a-120c-4ea6-8288-7b5f5b87623e/air-force-1-big-kids-shoes-km6NJj.png,67.97,True,Big Kids' Shoes,False
+1000197439,Nike Air Force 1 Mid '07 LX,https://static.nike.com/a/images/t_default/f190a992-411a-4990-bf8d-0e6023e937fe/air-force-1-mid-07-lx-mens-shoes-QpdMmT.png,75.97,True,Men's Shoes,False
+1000197442,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/2c4fa3b6-e3a2-46e5-ad25-a110bc16f050/air-force-1-07-lv8-mens-shoes-qBw7N1.png,110.97,True,Men's Shoes,False
+12723224,Nike Air Force 1 '07 WB,https://static.nike.com/a/images/t_default/zjrheo7cjgrv6opt8txu/air-force-1-07-wb-mens-shoes-txRBM6.png,119.97,True,Men's Shoes,False
+13071860,Nike Air Force 1 Mid '07,https://static.nike.com/a/images/t_default/0447d3b3-28d3-4ba3-a6d6-deb0b21558af/air-force-1-mid-07-mens-shoes-S1QClz.png,120.0,True,Men's Shoes,False
+14217977,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/b7cf5b56-f924-488a-9fb0-65efcca79cc4/air-force-1-07-mens-shoes-5xqQ6q.png,110.0,True,Men's Shoes,False
+1009406297,Nike Air Force 1 Low By Gemini,https://static.nike.com/a/images/t_default/e619a2e8-9ae5-48bc-b37e-ce83b265bac6/hispl-quxm-tvxus.png,130.0,True,Custom Shoes,False
+1009406297,Nike Air Force 1 Low By You,https://static.nike.com/a/images/t_default/8ff8c43b-998e-44ba-af25-b2af20a80631/hispl-quxm-tvxus.png,130.0,True,Custom Women's Shoes,False
+1009406297,Nike Air Force 1 Low By You,https://static.nike.com/a/images/t_default/f91f3378-554c-4296-bf33-af78f3bf4a69/hispl-quxm-tvxus.png,130.0,True,Custom Women's Shoes,False
+1009406297,Nike Air Force 1 Low By Americana,https://static.nike.com/a/images/t_default/23878266-e11b-4ee0-b33f-7841f61a99fc/hispl-quxm-tvxus.png,130.0,True,Custom Shoes,False
+1011845689,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/fa6677c9-6db3-43c6-9e16-74305ea5a691/air-force-1-07-mens-shoes-gtJkpn.png,110.0,True,Men's Shoes,False
+1010242280,Nike Air Force 1 Low,https://static.nike.com/a/images/t_default/bde46d4f-fad2-4409-ab67-8d7a73e80cf7/air-force-1-low-mens-shoes-rjk6kq.png,140.0,True,Men's Shoes,False
+1007491392,Nike Air Force 1 LV8 3,https://static.nike.com/a/images/t_default/57b13e63-40af-4c6c-8a12-522b65775b9f/air-force-1-lv8-3-big-kids-shoes-LDL8MM.png,59.97,True,Big Kids' Shoes,False
+1003839172,Nike Air Force 1 Premium,https://static.nike.com/a/images/t_default/e998232a-c620-4b84-b294-fa40cc23ecac/air-force-1-premium-womens-shoes-DxRG97.png,130.0,True,Women's Shoes,False
+13935884,Nike Air Force 1 React,https://static.nike.com/a/images/t_default/1c67261f-7263-4fdc-8bef-39c928807fe2/air-force-1-react-mens-shoes-WSjfs8.png,119.97,True,Men's Shoes,False
+14253934,Nike Air Force 1 '07 FlyEase,https://static.nike.com/a/images/t_default/f153b4e4-9069-44ae-bf86-f70ae8ecbaa1/air-force-1-07-flyease-womens-shoes-q2Nz01.png,110.0,True,Women's Shoes,False
+1010243496,Nike Force 1 Low ASW,https://static.nike.com/a/images/t_default/742e2f04-b7d0-499e-b4f6-e1e9ad36dd23/force-1-low-asw-little-kids-shoes-gRcv7N.png,63.97,True,Little Kids' Shoes,False
+12898968,Nike Air Force 1 '07 LV8 1,https://static.nike.com/a/images/t_default/fdeb34c8-a6bf-4530-9145-b6cfea5dd963/air-force-1-07-lv8-1-mens-shoes-x0bMdL.png,130.0,True,Men's Shoes,False
+13071867,Nike Air Force 1 High '07,https://static.nike.com/a/images/t_default/6a91c26b-7471-459d-91c5-30665fdc144c/air-force-1-high-07-mens-shoes-CGjvNW.png,125.0,True,Men's Shoes,False
+1007486158,Nike Air Force 1,https://static.nike.com/a/images/t_default/599babb4-1dfe-4b90-be4d-e4f27b44e88c/air-force-1-big-kids-shoes-k4BQ8C.png,90.0,True,Big Kids' Shoes,False
+1008590685,Nike Air Force 1 '07 Mid,https://static.nike.com/a/images/t_default/92511553-5c5c-4da6-96da-96a51dc701ed/air-force-1-07-mid-womens-shoes-2NP34w.png,92.97,True,Women's Shoes,False
+13153255,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/3c9839ad-9907-477e-8d9e-4347d155c726/air-force-1-07-mens-shoes-PN6jnS.png,110.0,True,Men's Shoes,False
+13130559,Nike Force 1 LE,https://static.nike.com/a/images/t_default/8d2c081b-ac13-44d4-9ca3-1a70ee605634/force-1-le-little-kids-shoes-d0vJBr.png,70.0,True,Little Kids' Shoes,False
+14262477,Nike Air Force 1 '07 LX,https://static.nike.com/a/images/t_default/d92ecc39-44b3-44c4-8666-0e4cf276eaa6/air-force-1-07-lx-mens-shoes-D2ZCMj.png,70.97,True,Men's Shoes,False
+1011815359,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/b0dd55f2-4ff1-4388-a4f3-4e884a0721f8/air-force-1-07-lv8-mens-shoes-9WB5bx.png,130.0,True,Men's Shoes,False
+14266239,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/db1701b1-249b-4aba-ab7d-c5a78c981321/air-force-1-lv8-big-kids-shoes-2TVBPx.png,52.97,True,Big Kids' Shoes,False
+1000197443,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/b6a095e1-d80b-4a28-b0d4-fdc3c098c95c/air-force-1-07-mens-shoes-6HPpcT.png,93.97,True,Men's Shoes,False
+1000197001,Nike Air Force 1 '07 LV8 EMB,https://static.nike.com/a/images/t_default/cfc67fd4-38c0-4c45-87e0-80a0d985fd05/air-force-1-07-lv8-emb-mens-shoes-s8hCLW.png,103.97,True,Men's Shoes,False
+13019620,Nike Air Force 1 '07 High,https://static.nike.com/a/images/t_default/bc061476-e39b-4cf0-a8f4-ef367f8c7ac4/air-force-1-07-high-mens-shoes-XTJLXX.png,125.0,True,Men's Shoes,False
+1000197002,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/3b05de1c-b694-48b1-9855-f8494f99e0b3/air-force-1-07-lv8-mens-shoes-PZf0LL.png,89.97,True,Men's Shoes,False
+13229611,Nike Force 1,https://static.nike.com/a/images/t_default/8c323a4b-dd6b-495a-849f-06a7b349d27a/force-1-little-kids-shoes-xrmQ0W.png,70.0,True,Little Kids' Shoes,False
+1010068354,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/ca25d17d-7256-4742-9145-a53c90671d35/air-force-1-07-lv8-mens-shoes-qvL1qB.png,130.0,True,Men's Shoes,False
+1010123176,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/edc253c4-28e6-4511-ba7d-650329c4fcec/air-force-1-lv8-big-kids-shoes-1lGPrs.png,70.97,True,Big Kids' Shoes,False
+1007489828,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/14068171-716b-43d1-8893-e550cfd3e31a/air-force-1-lv8-big-kids-shoes-wLmrNN.png,51.97,True,Big Kids' Shoes,False
+1011847360,Nike Air Force 1 Mid By You,https://static.nike.com/a/images/t_default/fdded470-0ac5-4bd7-b41b-1bb63e161438/custom-nike-air-force-1-mid-by-you-shoes.png,140.0,True,Men's Custom Shoes,False
+1011847360,Nike Air Force 1 Mid By Americana,https://static.nike.com/a/images/t_default/171cadc1-ee74-4469-9525-dec5a67f1be2/custom-nike-air-force-1-mid-by-you-shoes.png,140.0,True,Custom Shoes,False
+14084299,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/c8da9d90-3914-4063-871f-a784a76d041b/air-force-1-07-lv8-mens-shoes-W1vVxF.png,91.97,True,Men's Shoes,False
+1007401372,Nike Air Force 1 Unity,https://static.nike.com/a/images/t_default/93b7f47c-b09d-4092-8d97-f7f6a0323662/air-force-1-unity-big-kids-shoes-3BPWF0.png,77.97,True,Big Kids' Shoes,False
+14289670,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/f14d9bc7-d7be-4582-83f3-d658f29b89f7/air-force-1-07-lv8-mens-shoes-Sxw463.png,103.97,True,Men's Shoes,False
+1007400965,Nike Air Force 1 Mid LE,https://static.nike.com/a/images/t_default/e394f383-18e0-4d24-8562-92844c225480/air-force-1-mid-le-big-kids-shoes-W0dKGw.png,57.97,True,Big Kids' Shoes,False
+1010167390,Nike Force 1 Low,https://static.nike.com/a/images/t_default/53fc0889-b9e6-45cc-b0c1-ee580a8d3435/force-1-low-little-kids-shoes-3g5plb.png,70.0,True,Little Kids' Shoes,False
+13722203,Nike Air Force 1 Mid '07,https://static.nike.com/a/images/t_default/e34a495d-3960-4401-81f3-fe8f3f3ed9a6/air-force-1-mid-07-mens-shoes-NQ2TT6.png,127.97,True,Men's Shoes,False
+13229774,Nike Force 1,https://static.nike.com/a/images/t_default/a079829d-6da2-4272-9932-59e2405c1aca/force-1-baby-toddler-shoes-kJpxBC.png,55.0,True,Baby/Toddler Shoes,False
+14244676,Nike Air Force 1 High '07 LV8 EMB,https://static.nike.com/a/images/t_default/ca99d983-209d-4cee-9cde-d251ee32584d/air-force-1-high-07-lv8-emb-mens-shoes-g2WGZn.png,89.97,True,Men's Shoes,False
+1010169662,Nike Air Force 1 LV8 2,https://static.nike.com/a/images/t_default/f0205256-81ff-4418-824a-8d1b9ed49d18/air-force-1-lv8-2-big-kids-shoes-1JQL4Z.png,69.97,True,Big Kids' Shoes,False
+1007486165,Nike Force 1,https://static.nike.com/a/images/t_default/ec1b7ecf-90e7-41e2-8f26-4bfdd984c969/force-1-baby-crib-booties-xcWs5X.png,20.97,True,Baby Crib Booties,False
+1007401365,Nike Force 1,https://static.nike.com/a/images/t_default/2f9a2292-39e2-4ee3-9959-74301284ffaa/force-1-baby-toddler-shoes-qdLCl9.png,43.97,True,Baby/Toddler Shoes,False
+14266247,Nike Force 1 LV8,https://static.nike.com/a/images/t_default/65d7bc89-c8a2-4851-9496-c45709a7b29e/force-1-lv8-baby-toddler-shoes-mZ1d6G.png,30.97,True,Baby/Toddler Shoes,False
+1010246471,Nike Force 1 Mid LE,https://static.nike.com/a/images/t_default/15413e40-569f-432e-bb62-eef558ab5b10/force-1-mid-le-baby-toddler-shoes-KrZ0T8.png,41.97,True,Baby/Toddler Shoes,False
+14247059,Nike Force 1 Crater Next Nature,https://static.nike.com/a/images/t_default/ac21bcd1-65a7-4b8a-9dc0-28ed5c46244b/force-1-crater-next-nature-baby-toddler-shoes-Tnjth4.png,26.97,True,Baby/Toddler Shoes,False
+1011906422,Nike Air Force 1 Low Retro,https://static.nike.com/a/images/t_default/e6eb0b94-087b-43c7-b36b-08b5ec053355/air-force-1-low-retro-mens-shoes-KZhTqR.png,150.0,True,Men's Shoes,False
+1009406282,Nike Air Force 1 Low By You,https://static.nike.com/a/images/t_default/dabf7785-3954-4cca-93f9-d2164ecd8f8e/hispl-quxm-tvxus.png,130.0,True,Custom Men's Shoes,False
+13987335,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/e7bba277-0bff-4550-a67b-a0061c0d05e7/air-force-1-07-lv8-mens-shoes-863lmJ.png,96.97,True,Men's Shoes,False
+1009406282,Nike Air Force 1 Low By You,https://static.nike.com/a/images/t_default/be7385a8-df8d-40b2-bc22-48ab2bfc6418/hispl-quxm-tvxus.png,130.0,True,Custom Men's Shoes,False
+1012371815,Nike Force 1 Low,https://static.nike.com/a/images/t_default/d574bbfb-afe8-4333-8e74-651a9eeeac00/force-1-low-baby-toddler-shoes-dC0xmX.png,55.0,True,Baby/Toddler Shoes,False
+1011845554,Nike Force 1 LV8,https://static.nike.com/a/images/t_default/2f5e8dc0-43bc-461f-b717-e8c157695885/force-1-lv8-little-kids-shoes-FwvWjF.png,68.97,True,Little Kids' Shoes,False
+1009157876,Nike Force 1 LV8,https://static.nike.com/a/images/t_default/e8a24858-aba2-4e48-8291-288d51b5670c/force-1-lv8-little-kids-shoes-L3Gs3j.png,68.97,True,Little Kids' Shoes,False
+14115946,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/437c3f97-a508-4aaa-b7ce-aab11cf2a45a/air-force-1-07-lv8-mens-shoes-khpfrj.png,97.97,True,Men's Shoes,False
+10338433,Nike Lunar Force 1,https://static.nike.com/a/images/t_default/6457bbb4-7eac-498b-8217-47729fe91930/lunar-force-1-mens-duckboot-tTZklH.png,134.97,True,Men's Duckboot,False
+12293582,Nike Air Force 1 Lover XX,https://static.nike.com/a/images/t_default/gfut4qoo5rkituipkgs8/air-force-1-lover-xx-womens-shoes-j4B5P5.png,82.97,True,Women's Shoes,False
+14287939,Nike Air Force 1 Mid React,https://static.nike.com/a/images/t_default/df521b78-9b58-44e5-8bda-5211ccb61c1d/air-force-1-mid-react-mens-shoes-mRp9m4.png,101.97,True,Men's Shoes,False
+13924036,Nike Air Force 1 Mid QS,https://static.nike.com/a/images/t_default/e776b31d-d1f3-4e91-8b8c-3879f06a191a/air-force-1-mid-qs-mens-shoes-xrHZ9p.png,77.97,True,Men's Shoes,False
+1009355768,Nike Air Force 1 Mid By You,https://static.nike.com/a/images/t_default/1e80f517-1d6f-47c7-9a1a-7f476cbea04d/custom-nike-air-force-1-mid-by-you-shoes.png,140.0,True,Women's Custom Shoes,False
+13146438,Nike Force 1 Mid LE,https://static.nike.com/a/images/t_default/3a8a706b-e973-4b66-b281-6c7a8dfa6bfa/force-1-mid-le-little-kids-shoe-bh88L1.png,72.97,True,Little Kids' Shoe,False
+1007529028,Nike Air Force 1 Low x Premium Goods,https://static.nike.com/a/images/t_default/9b112da7-e7c2-4364-977e-1f19f8aa929b/air-force-1-low-x-premium-goods-womens-shoes-pShMNj.png,150.0,True,Women's Shoes,False
+1011876291,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/e6a1cb69-6b6a-422f-90ac-4ad4f1e7015f/air-force-1-lv8-big-kids-shoes-bGNdjh.png,75.97,True,Big Kids' Shoes,False
+14083930,Nike Air Force 1 Sculpt,https://static.nike.com/a/images/t_default/9007e110-ab61-42de-a672-878d4f076a1e/air-force-1-sculpt-womens-shoes-GKwftK.png,70.97,True,Women's Shoes,False
+13012036,Nike Air Force 1 GTX,https://static.nike.com/a/images/t_default/1b1b09a2-cb46-487c-9882-38dc63661db6/air-force-1-gtx-mens-shoes-MXf3Lm.png,109.97,True,Men's Shoes,False
+1009157877,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/1b0af978-86fa-49a4-90ca-f6540c1a1932/air-force-1-lv8-big-kids-shoes-5D3Vm7.png,71.97,True,Big Kids' Shoes,False
+1009356266,Nike Air Force 1 High By You,https://static.nike.com/a/images/t_default/b70aed42-0084-405b-8e44-6d52b59fa4f3/custom-nike-air-force-1-high-by-you-shoes.png,145.0,True,Men's Custom Shoes,False
+1010058168,Nike Air Force 1 Mid '07 LX NBHD,https://static.nike.com/a/images/t_default/f862e5e4-8de3-4b24-8456-c7d6dd0d6cea/air-force-1-mid-07-lx-nbhd-mens-shoes-CvfbLv.png,140.0,True,Men's Shoes,False
+1011995525,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/300037f5-c3d4-48a8-b6e2-a058d80fb2c9/air-force-1-07-lv8-shoes-3vWcC9.png,130.0,True,Shoes,False
+1011847357,Nike Air Force 1 Mid By Americana,https://static.nike.com/a/images/t_default/d2dce114-5f53-4d33-a18f-ad5f9d55c74e/custom-nike-air-force-1-mid-by-you-shoes.png,140.0,True,Custom Shoes,False
+1010051610,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/6b5d2ac2-2fb5-4cda-8bab-396e566ff350/air-force-1-07-lv8-mens-shoes-FVc98t.png,103.97,True,Men's Shoes,False
+1011852740,Nike Air Force 1 Low Retro,https://static.nike.com/a/images/t_default/9ade626a-79c9-4544-8237-907bcc65fdba/air-force-1-low-retro-mens-shoes-53gMmt.png,130.0,True,Men's Shoes,False
+1010051319,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/54a510de-a406-41b2-8d62-7f8c587c9a7e/air-force-1-07-lv8-mens-shoes-7bCM7s.png,103.97,True,Men's Shoes,False
+1007529682,Nike Air Force 1 Low x Ambush,https://static.nike.com/a/images/t_default/50c13c60-a1e1-4c0c-bf7c-8a5ffa793e3b/air-force-1-low-x-ambush-mens-shoes-KTW9v6.png,190.0,True,Men's Shoes,False
+13935808,Nike Air Force 1 Crater Flyknit Next Nature,https://static.nike.com/a/images/t_default/aaa04356-2232-4f9c-a302-0c7d5c3e2102/air-force-1-crater-flyknit-next-nature-mens-shoes-bHdNmN.png,130.0,True,Men's Shoes,False
+14114101,Nike Air Force 1 '07 Premium,https://static.nike.com/a/images/t_default/0cf30d74-57f8-43fa-b67f-11efbfd2afb3/air-force-1-07-premium-mens-shoes-zqBZTs.png,140.0,True,Men's Shoes,False
+1009351172,Nike Air Force 1 High By You,https://static.nike.com/a/images/t_default/eea404ab-48ef-49dd-91b6-d2e221679374/custom-nike-air-force-1-high-by-you-shoes.png,145.0,True,Women's Custom Shoes,False
+1009173258,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/c16de447-1234-43b4-be2e-8f60a140b12d/air-force-1-lv8-big-kids-shoes-HPbjCf.png,105.0,True,Big Kids' Shoes,False
+1012328842,Nike Air Force 1 Shadow,https://static.nike.com/a/images/t_default/4d1e74e0-a198-4c46-be77-ed2cbe6d1c5a/air-force-1-shadow-womens-shoes-qK69hq.png,130.0,True,Women's Shoes,True
+13835620,Nike Air Force 1 Mid QS,https://static.nike.com/a/images/t_default/795f2fbf-af92-47e4-b9da-a3c465b66639/air-force-1-mid-qs-mens-shoes-MfCLHs.png,70.97,True,Men's Shoes,False
+14084303,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/422ec506-97c1-42ae-a106-3317e6481e3f/air-force-1-07-lv8-mens-shoes-VDStVQ.png,130.0,True,Men's Shoes,False
+12974853,Nike Air Force 1 '07,https://static.nike.com/a/images/t_default/52cbb0a5-241b-4f5c-9927-45a5051365cf/air-force-1-07-mens-shoes-pbNjLd.png,110.0,True,Men's Shoes,False
+14096145,Nike Force 1 Toggle SE,https://static.nike.com/a/images/t_default/f375b6d3-ac95-4ba4-9c37-a9095950a0b7/force-1-toggle-se-little-kids-shoes-QWkfJL.png,63.97,True,Little Kids' Shoes,False
+13844916,Nike Air Force 1 Crater Next Nature,https://static.nike.com/a/images/t_default/40cda7df-1d0a-443f-8e59-6924e6c1ec91/air-force-1-crater-next-nature-big-kids-shoes-m64P5f.png,66.97,True,Big Kids' Shoes,False
+13935887,Nike Air Force 1 '07 LV8 Next Nature,https://static.nike.com/a/images/t_default/3ab4d3a8-fc51-406d-8814-5c45eeddbebb/air-force-1-07-lv8-next-nature-mens-shoes-bdFBs8.png,102.97,True,Men's Shoes,False
+1012689986,Nike Air Force 1 Low Unlocked By You,https://static.nike.com/a/images/t_default/05e67b6e-a9a7-4c4e-bb75-4aa5429aadb7/custom-air-force-1-low-unlocked-by-you.png,150.0,True,Custom Men's Shoes,False
+1011839520,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/14f3a696-3ca1-4b36-b5a7-05fbedf21cd0/air-force-1-lv8-big-kids-shoes-3f2DJj.png,75.97,True,Big Kids' Shoes,False
+1009281656,Nike Air Force 1 Low Retro,https://static.nike.com/a/images/t_default/2ece7855-958c-48b3-9e06-fa21b8f94b99/air-force-1-low-retro-mens-shoes-1VHstQ.png,150.0,True,Men's Shoes,False
+14096166,Nike Force 1,https://static.nike.com/a/images/t_default/1a66828a-58d8-47c0-b911-cc4d427a603b/force-1-baby-toddler-shoes-FvHkdR.png,42.97,True,Baby/Toddler Shoes,False
+1009173238,Nike Air Force 1 '07 Premium,https://static.nike.com/a/images/t_default/a9b6d2b3-5612-4c96-9eba-b62c817fffc0/air-force-1-07-premium-mens-shoes-S9NNTv.png,150.0,True,Men's Shoes,False
+12726078,Nike Force 1 Crib,https://static.nike.com/a/images/t_default/ehmxbh09gioulq4omksm/force-1-crib-baby-bootie-clk354.png,45.0,True,Baby Bootie,False
+1009406282,Nike Air Force 1 Low By Americana,https://static.nike.com/a/images/t_default/f94d7e32-157b-4220-91d4-88aeb1095f8b/hispl-quxm-tvxus.png,130.0,True,Custom Shoes,False
+1011845472,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/28ef8b03-5519-4ab6-b501-40ad3dbb196b/air-force-1-lv8-big-kids-shoes-kbd5wR.png,75.97,True,Big Kids' Shoes,False
+14114156,Nike Air Force 1 Mid '07 Premium,https://static.nike.com/a/images/t_default/e1b80be6-fce8-4f2f-820e-fad7dd1a1272/air-force-1-mid-07-premium-mens-shoes-6HzNcj.png,92.97,True,Men's Shoes,False
+1010166315,Nike Force 1 Low SE,https://static.nike.com/a/images/t_default/f59a7d70-fb30-45ab-a308-259284925314/force-1-low-se-baby-toddler-shoes-4xvCm9.png,46.97,True,Baby/Toddler Shoes,False
+1011819971,Nike Air Force 1 Next Nature,https://static.nike.com/a/images/t_default/fec20495-8906-4099-b9c2-55f9bb08450f/air-force-1-next-nature-big-kids-shoes-NvdqCW.png,75.97,True,Big Kids' Shoes,False
+1000197445,Nike Air Force 1 Mid '07,https://static.nike.com/a/images/t_default/f2f5ab29-36fb-48c7-81d9-50baa654b2b9/air-force-1-mid-07-mens-shoes-CmXM62.png,102.97,True,Men's Shoes,False
+1009351172,Nike Air Force 1 High By Americana,https://static.nike.com/a/images/t_default/cd56e210-35a7-45ea-acf3-fcd8ffcb6456/custom-nike-air-force-1-high-by-you-shoes.png,145.0,True,Custom Shoes,False
+1011845474,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/85359e16-f5d4-4f24-9627-34fe3649f8ec/air-force-1-lv8-big-kids-shoes-47knZ6.png,100.0,True,Big Kids' Shoes,False
+13144168,Nike Air Force 1 High LE,https://static.nike.com/a/images/t_default/f885719f-1b24-4352-bef5-83394c184351/air-force-1-high-le-big-kids-shoes-81vt1b.png,78.97,True,Big Kids' Shoes,False
+1010055968,Nike Air Force 1 '07 LX,https://static.nike.com/a/images/t_default/52534247-1fb4-49e2-9195-9f4678c22d59/air-force-1-07-lx-mens-shoes-kgJBLz.png,140.0,True,Men's Shoes,False
+14096246,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/92aadfa3-0184-4e34-8109-462798e812bb/air-force-1-lv8-big-kids-shoes-BktXWT.png,76.97,True,Big Kids' Shoes,False
+1009356266,Nike Air Force 1 High By Americana,https://static.nike.com/a/images/t_default/f1ddf9b5-e3c1-44d3-8a44-f0c448adb22c/custom-nike-air-force-1-high-by-you-shoes.png,145.0,True,Custom Shoes,False
+1010125411,Nike Air Force 1,https://static.nike.com/a/images/t_default/776b4fdb-49ba-48ab-8cd8-255c28441198/air-force-1-big-kids-shoes-xw5kjz.png,71.97,True,Big Kids' Shoes,False
+14263487,Nike Air Force 1 Low Premium Houston,https://static.nike.com/a/images/t_default/72cb6722-1ff1-455f-b2ee-0617ffe8c87c/air-force-1-low-premium-houston-mens-shoes-GvGJKN.png,75.97,True,Men's Shoes,False
+1009157878,Nike Force 1 LV8,https://static.nike.com/a/images/t_default/1233dc0a-257f-4c0c-a0c8-f329334aa4a0/force-1-lv8-baby-toddler-shoes-BVRlLv.png,49.97,True,Baby/Toddler Shoes,False
+13976081,Nike Force 1 Toggle,https://static.nike.com/a/images/t_default/077f0768-d34c-4df1-ab62-4c736d85c425/force-1-toggle-baby-toddler-shoes-hGm7GB.png,44.97,True,Baby/Toddler Shoes,False
+14266168,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/18734018-620a-4d31-bebf-eeeaa7e3cc76/air-force-1-07-lv8-mens-shoes-M866WJ.png,90.97,True,Men's Shoes,False
+1010132306,Nike Air Force 1 Mid '07,https://static.nike.com/a/images/t_default/023fdd46-0de7-43cf-94af-e7e093cf968f/air-force-1-mid-07-mens-shoes-rJwpc6.png,128.97,True,Men's Shoes,False
+1007401343,Nike Force 1,https://static.nike.com/a/images/t_default/02bafcec-7bce-481d-b36c-50091804b4c9/force-1-little-kids-shoes-0fjJmj.png,54.97,True,Little Kids' Shoes,False
+1000460275,Nike Air Force 1 High '07 LV8,https://static.nike.com/a/images/t_default/3727d0f9-a6d1-4ee9-993c-9aac2fd0b65b/air-force-1-high-07-lv8-mens-shoes-lR6frj.png,104.97,True,Men's Shoes,False
+1011845456,Nike Force 1 LV8,https://static.nike.com/a/images/t_default/79050cac-e418-4704-9c19-900239ce308c/force-1-lv8-baby-toddler-shoes-rGHNkl.png,65.0,True,Baby/Toddler Shoes,False
+1009174604,Nike Air Force 1 Impact Next Nature,https://static.nike.com/a/images/t_default/fadc6410-f705-4e63-88f4-3cc9da41eb13/air-force-1-impact-next-nature-big-kids-shoes-617Rzw.png,72.97,True,Big Kids' Shoes,False
+1012584829,Nike Air Force 1,https://static.nike.com/a/images/t_default/07c64825-abdf-4aa6-a1d8-f6e3186dff40/air-force-1-big-kids-shoes-lTcPjk.png,90.0,True,Big Kids' Shoes,True
+1011876292,Nike Force 1 LV8,https://static.nike.com/a/images/t_default/fa86d330-d2bb-4781-b27a-20ea70d7d9f3/force-1-lv8-little-kids-shoes-pffsZV.png,60.97,True,Little Kids' Shoes,False
+13130487,Nike Force 1 LE,https://static.nike.com/a/images/t_default/9386d0f0-65a0-47a5-bce2-e14ebb8c5caa/force-1-le-baby-toddler-shoe-8WvsS7.png,55.0,True,Baby/Toddler Shoe,False
+1007528992,Nike Air Force 1 Low x Premium Goods,https://static.nike.com/a/images/t_default/301aec63-5b12-4e89-abd9-b7041943bc7f/air-force-1-low-x-premium-goods-womens-shoes-CJgM2f.png,150.0,True,Women's Shoes,False
+1011843086,Nike J Force 1 Low LX SP,https://static.nike.com/a/images/t_default/88ef98c4-3b86-4973-924f-66580025026f/j-force-1-low-lx-sp-womens-shoes-mj8RZW.png,170.0,True,Women's Shoes,False
+14234842,Nike Air Force 1 '07 SE,https://static.nike.com/a/images/t_default/3e5fbe25-a732-4a52-b719-d3b37f2b5149/air-force-1-07-se-womens-shoes-bt2vW8.png,84.97,True,Women's Shoes,False
+1011845682,Nike Air Force 1 Low Premium,https://static.nike.com/a/images/t_default/e5b32370-789f-40d7-bdbe-1ec71d7b7618/air-force-1-low-premium-mens-shoes-5pqGTW.png,150.0,True,Men's Shoes,False
+1010126406,"Nike Air Force 1 '07 ""ATL""",https://static.nike.com/a/images/t_default/938e795c-91e1-4c18-99a1-24b9298fc222/air-force-1-07-atl-mens-shoes-BvGcPl.png,130.0,True,Men's Shoes,False
+1010170761,Nike Force 1 LV8 2,https://static.nike.com/a/images/t_default/d4287483-b80e-4fb0-b8b1-5b87b922a79c/force-1-lv8-2-little-kids-shoes-T152dT.png,49.97,True,Little Kids' Shoes,False
+1012328855,Nike Air Force 1 LX,https://static.nike.com/a/images/t_default/776f7db2-36b0-44ff-b6de-eb93120a25bf/air-force-1-lx-womens-shoes-t8K12n.png,130.0,False,Women's Shoes,False
+1008590785,Nike Air Force 1 High,https://static.nike.com/a/images/t_default/b60c84ba-045f-43a3-8dc4-1fb2afd79eda/air-force-1-high-big-kids-shoes-FWPQFN.png,59.97,True,Big Kids' Shoes,False
+13846183,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/a14d314c-5e95-4def-b240-06299d190f68/air-force-1-lv8-big-kids-shoes-1jq1pP.png,70.97,True,Big Kids' Shoes,False
+1010165182,Nike Force 1 Low SE,https://static.nike.com/a/images/t_default/5b6fee2d-79a4-4747-a6fe-59195aaef16f/force-1-low-se-little-kids-shoes-cXL65x.png,51.97,True,Little Kids' Shoes,False
+1012399268,Nike Force 1 LV8,https://static.nike.com/a/images/t_default/4b4b65c5-918b-4f61-bb3c-ea2a772ff434/force-1-lv8-little-kids-shoes-f9Q9LM.png,75.0,True,Little Kids' Shoes,True
+1012405502,Nike Air Force 1 LV8 2,https://static.nike.com/a/images/t_default/acd8e1d7-74c0-4ebd-b040-60b735ba1cb0/air-force-1-lv8-2-big-kids-shoes-2W05Kh.png,95.0,True,Big Kids' Shoes,True
+1011839533,Nike Air Force 1 ’07 LX,https://static.nike.com/a/images/t_default/e2616858-d1ca-43cd-8e23-2cee7dedbe58/air-force-1-07-lx-womens-shoes-VVL5B1.png,130.0,True,Women's Shoes,False
+1010123410,Nike Force 1 LV8,https://static.nike.com/a/images/t_default/236a66a2-2c4e-4aa1-a9c9-73ff49f3defd/force-1-lv8-little-kids-shoes-ZXqGPm.png,80.0,True,Little Kids' Shoes,False
+1012403739,Nike Force 1 LV8 2,https://static.nike.com/a/images/t_default/09396741-0b4a-46fc-a941-44e4a645f96d/force-1-lv8-2-baby-toddler-shoes-v3sxN8.png,60.0,True,Baby/Toddler Shoes,True
+14188265,Nike Air Force 1 Mid '07 QS,https://static.nike.com/a/images/t_default/e2f91c8b-30cb-4c35-909f-913f36359411/air-force-1-mid-07-qs-mens-shoes-plNt2Q.png,75.97,True,Men's Shoes,False
+1010070677,Nike Air Force 1 '07 LX,https://static.nike.com/a/images/t_default/df036356-5563-4446-8f87-4bac3d4ffe2b/air-force-1-07-lx-womens-shoes-HCBg9w.png,130.0,True,Women's Shoes,True
+1003842761,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/88311a6d-46bb-4d17-be9c-ae2cfad77c66/air-force-1-lv8-big-kids-shoes-rbwFkC.png,80.97,True,Big Kid's Shoes,False
+1007401289,Nike Force 1 LV8 2,https://static.nike.com/a/images/t_default/d280e9a2-95a6-428a-82bc-e1fb21e00128/force-1-lv8-2-baby-toddler-shoes-9GdPZ4.png,51.97,True,Baby/Toddler Shoes,False
+13844902,Nike Force 1 Crater Next Nature,https://static.nike.com/a/images/t_default/fce3419b-4afc-49e2-98f3-c6f8cd3b7d5f/force-1-crater-next-nature-baby-toddler-shoes-QcGLbZ.png,42.97,True,Baby/Toddler Shoes,False
+1010246509,Nike Force 1 Low SE,https://static.nike.com/a/images/t_default/9e492201-c34c-408e-be66-93f74036e282/force-1-low-se-baby-toddler-shoes-W6wk8p.png,42.97,True,Baby/Toddler Shoes,False
+1010168265,Nike Force 1 LV8 2,https://static.nike.com/a/images/t_default/c41d06ea-b585-4853-9cec-59c4e2e147b3/force-1-lv8-2-baby-toddler-shoes-1wH8bC.png,41.97,True,Baby/Toddler Shoes,False
+1007406112,Nike Air Force 1 Mid '07 LX,https://static.nike.com/a/images/t_default/2f76e184-cbc9-41d8-97a3-f8ebfc5fd347/air-force-1-mid-07-lx-mens-shoes-083W0h.png,120.97,True,Men's Shoes,False
+14244688,Nike Air Force 1 Mid '07 LV8,https://static.nike.com/a/images/t_default/e4b5bdcf-3912-4729-b983-3e05596d7831/air-force-1-mid-07-lv8-mens-shoes-vSC6zC.png,119.97,True,Men's Shoes,False
+1012328462,Nike Air Force 1 Lover XX,https://static.nike.com/a/images/t_default/d42528c0-7f3e-4786-adec-7877ed3a88a5/air-force-1-lover-xx-womens-shoes-PvLzM3.png,130.0,True,Women's Shoes,True
+1011839522,Nike Air Force 1 LV8,https://static.nike.com/a/images/t_default/8112b8a3-a5fc-443e-9336-b78d7b2db1d6/air-force-1-lv8-big-kids-shoes-PNbgfR.png,79.97,True,Big Kids' Shoes,False
+1011876290,Nike Force 1 LV8,https://static.nike.com/a/images/t_default/3e7f96ac-6cb1-437d-be6c-52dcba1f5ba3/force-1-lv8-baby-toddler-shoes-fKJb5k.png,55.97,True,Baby/Toddler Shoes,False
+14154962,Nike Air Force 1 '07 LV8,https://static.nike.com/a/images/t_default/94bdb62d-c296-4d6a-ae6b-c54dfe2b4acf/air-force-1-07-lv8-mens-shoes-1C4L8V.png,130.0,True,Men's Shoes,False
+14206463,Nike Air Force 1 x Serena Williams Design Crew,https://static.nike.com/a/images/t_default/18378681-1d83-4d5f-bb34-93982e63bbf8/air-force-1-x-serena-williams-design-crew-shoes-XH4MP1.png,98.97,True,Shoes,False
+14292149,Nike Air Force 1 High '07 Premium,https://static.nike.com/a/images/t_default/88f3977c-85df-4a1f-80d1-6ff78b8803e3/air-force-1-high-07-premium-mens-shoes-ccR9rH.png,82.97,True,Men's Shoes,False
+1012328643,Nike Air Force 1 LX,https://static.nike.com/a/images/t_default/aca2a694-4443-43da-85f6-32c561aa1805/air-force-1-lx-womens-shoes-qRLqSW.png,120.0,False,Women's Shoes,False
