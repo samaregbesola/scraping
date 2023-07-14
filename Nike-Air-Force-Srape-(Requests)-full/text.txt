@@ -1,0 +1,12 @@
+all = json_data["objects"][0]
+
+id = all['productInfo'][0]["merchProduct"]["pid"]
+title = all['productInfo'][0]["productContent"]["title"]
+category = all['productInfo'][0]["productContent"]["subtitle"]
+price = all['productInfo'][0]['merchPrice']['fullPrice']
+color = all['productInfo'][0]["productContent"]["colors"][0]["name"]
+inStock = all['productInfo'][0]['availability']['available']
+img_one = all["publishedContent"]["nodes"][0]["nodes"][2]["properties"]["portrait"]["url"]
+img_two = all["publishedContent"]["nodes"][0]["nodes"][3]["properties"]["portrait"]["url"]
+img_three = all["publishedContent"]["nodes"][0]["nodes"][4]["properties"]["portrait"]["url"]
+img_four = all["publishedContent"]["nodes"][0]["nodes"][5]["properties"]["portrait"]["url"]
